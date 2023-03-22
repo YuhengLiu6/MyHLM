@@ -18,3 +18,6 @@ Running process:
 3. run calculation.py
 
 or you can run the whole process by running main.py
+
+The result heatmap is shown below:
+![heatmap](heatmap.png)
